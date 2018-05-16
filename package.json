@@ -1,6 +1,6 @@
 {
   "name": "is-whatwg-url",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Can be parsed or not by whatwg url module.",
   "main": "index.js",
   "scripts": {
