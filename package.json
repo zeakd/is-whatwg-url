@@ -1,0 +1,29 @@
+{
+  "name": "is-whatwg-url",
+  "version": "0.0.0",
+  "description": "Can be parsed or not by whatwg url module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeakd/is-whatwg-url.git"
+  },
+  "keywords": [
+    "url",
+    "whatwg",
+    "is",
+    "check",
+    "validate"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeakd/is-whatwg-url/issues"
+  },
+  "homepage": "https://github.com/zeakd/is-whatwg-url#readme",
+  "devDependencies": {
+    "ava": "1.0.0-beta.4"
+  }
+}
